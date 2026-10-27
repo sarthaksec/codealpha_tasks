@@ -1,0 +1,10 @@
+Hello Team,
+Here are the contact details for the project coordinators:
+- General queries: contact@codealpha.tech
+- Technical lead: alice.johnson@example.com or support@example.co.uk
+- Mentorship team: mentorship-help@codealpha.tech
+- Placement officer: careers_info@codealpha.tech
+- Duplicate test: contact@codealpha.tech
+For emergencies, reach out to admin123@domain.org or contact@domain.net.
+
+Thank you!

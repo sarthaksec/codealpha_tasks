@@ -1,0 +1,8 @@
+=======================================================
+      CODEALPHA WEBPAGE TITLE SCRAPER RESULT      
+=======================================================
+Scraped URL      : https://example.com
+Page Title       : Example Domain
+Meta Description : None
+Scraped At       : 2026-10-28 00:14:20
+=======================================================

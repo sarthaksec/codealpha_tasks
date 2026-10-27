@@ -1,0 +1,11 @@
+# Extracted Email Addresses
+# Source: sample_text_with_emails.txt
+# Total Unique Found: 7
+----------------------------------------
+admin123@domain.org
+alice.johnson@example.com
+careers_info@codealpha.tech
+contact@codealpha.tech
+contact@domain.net
+mentorship-help@codealpha.tech
+support@example.co.uk

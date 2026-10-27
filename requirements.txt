@@ -1,0 +1,2 @@
+# CodeAlpha Python Programming Internship Dependencies
+requests>=2.28.0
